@@ -1,0 +1,7 @@
+README.md
+setup.py
+Automatic_leaf_infection_identifier.egg-info/PKG-INFO
+Automatic_leaf_infection_identifier.egg-info/SOURCES.txt
+Automatic_leaf_infection_identifier.egg-info/dependency_links.txt
+Automatic_leaf_infection_identifier.egg-info/requires.txt
+Automatic_leaf_infection_identifier.egg-info/top_level.txt
